@@ -108,7 +108,7 @@ The DMG is signed & notarized (~5.5 MB, no installer), under the Apple Developer
 - SwiftUI
 - Camera permission for QR scanning
 - NFC entitlements for ID card support
-- Bundle ID registration required (via info@peachdev.uz)
+- Bundle ID registration required (via info@yt.uz)
 
 ### macOS — `eimzo-mac`
 - macOS 13 (Ventura) or later
@@ -143,7 +143,7 @@ The DMG is signed & notarized (~5.5 MB, no installer), under the Apple Developer
 
 The SDKs are **proprietary / license-gated**. Unregistered apps hit the SDK's built-in blocked screen.
 
-- **iOS (`eimzo-ios-sdk`)** — closed-source XCFramework; **Bundle ID registration required** via **info@peachdev.uz**.
+- **iOS (`eimzo-ios-sdk`)** — closed-source XCFramework; **Bundle ID registration required** via **info@yt.uz**.
 - **Android & mobile (`eimzo-mobile-sdk`)** — proprietary, **Firebase-gated license verification** per app package name. Copyright (c) 2026 Yangi Texnologiyalar (YT). Registration via **info@yt.uz**.
 - **Flutter (`eimzo_flutter`)** — license-gated: the app must be registered (package name + bundle id) and **NFC entitlement approved** via **info@yt.uz**.
 
@@ -190,9 +190,7 @@ The SDKs are **proprietary / license-gated**. Unregistered apps hit the SDK's bu
 ## Support & Contact
 
 - **Bugs:** open an issue on the relevant repository (e.g. [eimzo-mac issues](https://github.com/peachdev-uz/eimzo-mac/issues)).
-- **Licensing / registration:**
-  - iOS SDK — **info@peachdev.uz**
-  - macOS / Android / Flutter — **info@yt.uz**
+- **Licensing / registration:** **info@yt.uz**
 - **Telegram:** [@peachdevuz](https://t.me/peachdevuz)
 - **GitHub:** [github.com/peachdev-uz](https://github.com/peachdev-uz)
 
