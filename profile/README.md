@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/peachdev-uz/.github/main/profile/assets/peachdev-logo.jpg" alt="PeachDev" width="440" />
+<h1>PeachDev</h1>
 
 <h3>E-IMZO Integration SDKs</h3>
 
